@@ -16,7 +16,7 @@ const Project = (props) => {
                     <p className='px-3 py-1 rounded-full bg-violet-100 text-center text-indigo-700'>{items}</p>
                     ))}
                 </div>
-                <a href={props.link} className="rounded-full flex justify-center items-center gap-1 h-10 w-20 hover:-translate-y-0.5 duration-300 ease-in-out hover:shadow-md shadow-gray-300">
+                <a href={props.link} target='_blank' className="rounded-full flex justify-center items-center gap-1 h-10 w-20 hover:-translate-y-0.5 duration-300 ease-in-out hover:shadow-md shadow-gray-300">
                     <FaGithub size={20} /><span className='font-semibold text-gray-800'>Code</span>
                 </a>
             </div>

@@ -1,10 +1,9 @@
 import React from 'react';
 
-const Skill = () => {
+const Skill = (props) => {
+  
   return (
-    <div className='h-20 w-40 p-10 bg-slate-100 rounded-md border border-slate-200 flex justify-center items-center text-md'>
-      React
-    </div>
+    <div className="hover:-translate-y-0.5 duration-300 ease-in-out hover:shadow-md shadow-gray-300 rounded-full bg-violet-100 text-center text-indigo-700 h-8 border px-10 py-5 flex justify-center items-center">{props.eachskill}</div>
   );
 }
 

@@ -8,7 +8,7 @@ export const projectDertails = [
     },
     {
       img: "https://images.unsplash.com/photo-1762191558265-d8d281c37227?q=80&w=1331&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
-      title: "PostBox - A Mailing Web Application",
+      title: "PostBox - Mailing Web Application",
       description: "A robust web application built with the .NET ecosystem for handling user messaging and data storage.",
       lang: ["ASP.NET Webform", "C#", "SQL Server"],
       link: "https://github.com/myselfAg/AgCMS"

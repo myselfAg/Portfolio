@@ -5,6 +5,7 @@ import Contact from "./components/Contact"
 import Navbar from "./components/Navbar"
 import Skills from "./components/Skills"
 import Footer from "./components/Footer"
+import Education from "./components/Education"
 
 function App() {
 
@@ -15,6 +16,7 @@ function App() {
       <About />
       <Skills />
       <Projects />
+      {/* <Education /> */}
       <Contact />
       <Footer />
     </>
