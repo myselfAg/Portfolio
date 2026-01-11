@@ -10,7 +10,7 @@ export const skillSet1 = [
 ]
 export const skillSet2 = [    {
       heading: "Databases",
-      skills: ["MySQL", "SQL Server"]
+      skills: ["MySQL", "Microsoft SQL Server"]
     },
     {
       heading: "Tools & Concepts",
