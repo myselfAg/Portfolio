@@ -1,7 +1,7 @@
 export const skillSet1 = [
     {
-      heading: "Languages",
-      skills: ["C", "Java", "Python"]
+      heading: "Languages & Concepts",
+      skills: ["C", "Java", "Python", "Basic Data Structures", "Object-Oriented Programming OOP)"]
     },
     {
       heading: "Web Technologies",
@@ -13,8 +13,8 @@ export const skillSet2 = [    {
       skills: ["MySQL", "Microsoft SQL Server"]
     },
     {
-      heading: "Tools & Concepts",
-      skills: ["Git & GitHub", "Visual Studio Code", "Visual Studio 2022", "Basic Data Structures", "Object-Oriented Programming OOP)"]
+      heading: "Tools",
+      skills: ["Git & GitHub", "Visual Studio Code", "Visual Studio 2022"]
     }
     
   ]
