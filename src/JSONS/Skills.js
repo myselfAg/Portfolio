@@ -14,7 +14,7 @@ export const skillSet2 = [    {
     },
     {
       heading: "Tools & Concepts",
-      skills: ["Git & GitHub", "Visual Studio Code", "Visual Studio 2022", "Basic Data Structures", "Object Orianted Programming (OOPs)"]
+      skills: ["Git & GitHub", "Visual Studio Code", "Visual Studio 2022", "Basic Data Structures", "Object-Oriented Programming OOP)"]
     }
     
   ]
