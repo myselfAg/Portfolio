@@ -3,7 +3,7 @@ const Landing = () => {
 
 
   return (
-    <section id='hero' className='h-screen w-full flex flex-col justify-center items-center gap-8 bg-linear-45 from-white via-white to-cyan-50'>
+    <section id='hero' className='h-screen w-full flex flex-col justify-center items-center gap-8 bg-linear-45 from-white  via-white to-slate-100'>
       <div className="w-1/2 flex flex-col justify-center items-center gap-6">
         <p className='text-lg font-medium text-cyan-400'>Hi there, 👋 I am</p>
         <h1 className='text-7xl font-bold text-gray-800'>Agneesh Mozumder</h1>
