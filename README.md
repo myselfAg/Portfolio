@@ -27,7 +27,7 @@ This repository contains my **personal portfolio**, showcasing my projects, tech
 
 * **LinkedIn:** [https://www.linkedin.com/in/agneesh-mozumder](https://www.linkedin.com/in/agneesh-mozumder)
 * **GitHub:** [https://github.com/myselfAg](https://github.com/myselfAg)
-* **Email:** [agneeshmozumderiembca2026@gmail.com](mailto:agneeshmozumderiembca2026@gmail.com)
+* **Email:** [agneeshmozumderiembca2026@gmail.com](mailto:agneeshpersonal@gmail.com)
 
 ---
 
